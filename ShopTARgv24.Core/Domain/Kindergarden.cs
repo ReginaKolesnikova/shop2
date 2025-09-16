@@ -21,7 +21,8 @@ namespace ShopTARgv24.Core.Domain
         //Teha uus branch.
         //Teemaks on Kindergarden.
         //Muutujateks on Id, GroupName, ChildrenCount, KindergardenName, TeacherName, CreatedAt ja UpdatedAt.
-        //Töö on hindeline. Töö 
+        //Töö on hindeline. Töö panna githubi ja link saata emailile.
 
     }
 }
+
